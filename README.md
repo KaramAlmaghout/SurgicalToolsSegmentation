@@ -78,6 +78,11 @@ The generated dataset is exported in ***YOLOv8 Format***. A set of lines will be
 
 ### Results
 
-![image](https://user-images.githubusercontent.com/94979970/235090417-58ce726a-7e20-4818-b2a3-dc598c12278a.png)
-![image](https://user-images.githubusercontent.com/94979970/235090455-4b8de066-d7df-473a-ad11-33f140eb37dd.png)
+![image](https://user-images.githubusercontent.com/94979970/235142408-13a88ba6-caa6-42a6-810b-6c883e9d8ccd.png)
+![image](https://user-images.githubusercontent.com/94979970/235142426-ef272748-76c5-4342-9974-5a68e964c03d.png)
+
+
+![image](https://user-images.githubusercontent.com/94979970/235142630-8173a67b-adc6-463e-aed2-30c7b746e66a.png)
+![image](https://user-images.githubusercontent.com/94979970/235142706-f670c68a-1506-4de0-99e3-8e3c25bb2863.png)
+
 
