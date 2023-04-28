@@ -1,5 +1,9 @@
 # SurgicalToolsSegmentation
 
+AML Course - Assignment 2
+
+A comparison between FasterRCNN and YOLOv8 in segmentation
+
 ## Dataset preperation
 
 [m2cai16-tool-locations](http://ai.stanford.edu/~syyeung/resources/m2cai16-tool-locations.zip)
