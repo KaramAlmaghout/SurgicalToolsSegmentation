@@ -84,5 +84,6 @@ The generated dataset is exported in ***YOLOv8 Format***. A set of lines will be
 
 ![image](https://user-images.githubusercontent.com/94979970/235142630-8173a67b-adc6-463e-aed2-30c7b746e66a.png)
 ![image](https://user-images.githubusercontent.com/94979970/235142706-f670c68a-1506-4de0-99e3-8e3c25bb2863.png)
+![image](https://user-images.githubusercontent.com/94979970/235142975-f08dc070-244a-4f12-ab42-0ce475a45ae6.png)
 
 
